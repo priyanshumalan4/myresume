@@ -290,7 +290,11 @@ footer {
     }
 
     .profile-photo {
-        width: 100px;
-        height: 100px;
+        width: 120px;
+        height: 120px;
+        border-radious: 50%;
+        object-fit: Cover;
+        display: black;
+        margin: 20px auto;
     }
 }
