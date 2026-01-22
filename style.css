@@ -292,9 +292,12 @@ footer {
     .profile-photo {
         width: 120px;
         height: 120px;
-        border-radious: 50%;
-        object-fit: Cover;
-        display: black;
-        margin: 20px auto;
+        margin-top: 15px;
+    }
+
+    header h1 {
+        margin-top: 10px;
+        text-align: center;
+        
     }
 }
